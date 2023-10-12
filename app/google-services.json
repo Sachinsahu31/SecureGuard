@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319762646323",
+    "project_id": "guardx-b2c2c",
+    "storage_bucket": "guardx-b2c2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319762646323:android:2ab84335456265fbc26a46",
+        "android_client_info": {
+          "package_name": "com.example.secureguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319762646323-ugghv6e8c71q5mppngq3mlldbj49smnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpgPYWjxHLJr8e40hTVkY8e6uV_jRBAaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319762646323-ugghv6e8c71q5mppngq3mlldbj49smnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
